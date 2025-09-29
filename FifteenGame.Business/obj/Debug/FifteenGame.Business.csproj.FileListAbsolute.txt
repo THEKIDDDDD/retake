@@ -1,0 +1,6 @@
+C:\Users\peepS\Desktop\I have a teacher pdf\FifteenGame.Web\FifteenGame.Business\bin\Debug\FifteenGame.Business.dll
+C:\Users\peepS\Desktop\I have a teacher pdf\FifteenGame.Web\FifteenGame.Business\bin\Debug\FifteenGame.Business.pdb
+C:\Users\peepS\Desktop\I have a teacher pdf\FifteenGame.Web\FifteenGame.Business\obj\Debug\FifteenGame.Business.csproj.AssemblyReference.cache
+C:\Users\peepS\Desktop\I have a teacher pdf\FifteenGame.Web\FifteenGame.Business\obj\Debug\FifteenGame.Business.csproj.CoreCompileInputs.cache
+C:\Users\peepS\Desktop\I have a teacher pdf\FifteenGame.Web\FifteenGame.Business\obj\Debug\FifteenGame.Business.dll
+C:\Users\peepS\Desktop\I have a teacher pdf\FifteenGame.Web\FifteenGame.Business\obj\Debug\FifteenGame.Business.pdb
